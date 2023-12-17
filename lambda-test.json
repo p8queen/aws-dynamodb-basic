@@ -1,0 +1,28 @@
+{
+  "action": "update",
+  "id": 1003,
+  "county":"Hancock",
+  "rent":2050
+}
+
+{
+  "action": "query",
+  "id": 1003
+}
+
+{
+  "action": "scan"
+}
+
+{
+  "action": "query",
+  "id": 1003
+}
+
+{
+  "action": "put",
+  "id": 1004,
+  "county": "Putman",
+  "rent": 1699
+}
+
